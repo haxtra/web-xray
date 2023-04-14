@@ -1,0 +1,49 @@
+/*** web.css theme v0.7 ***/
+
+:root {
+
+	/*** MAIN ********************************************/
+
+	/* general */
+	--color: #aaa;
+	--color-dim: #444;
+	--background: linear-gradient(170deg, #0b1628 0%, #58728d 100%);
+	--font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	--font-size: 16px;
+
+	/* links */
+	--link-fg: #bcd;
+	--link-fg-hover: #0ff;
+
+	/* selection */
+	--selection-fg: #000;
+	--selection-bg: #ff0;
+
+	/* scrollbar */
+	--scrollbar-fg: #0df;
+	--scrollbar-bg: #111;
+	--scrollbar-size: 2px; /* webkit only, ff defaults to thin */
+
+
+	/*** COMPONENTS **************************************/
+
+	/* buttons */
+	--button-fg: #000;
+	--button-bg: #bcd;
+
+	--button-success-fg: #fff;
+	--button-success-bg: #192;
+	--button-alert-fg: #fff;
+	--button-alert-bg: #900;
+	--button-warning-fg: #fff;
+	--button-warning-bg: #d70;
+	--button-info-fg: #fff;
+	--button-info-bg: #33b;
+	--button-light-fg: #fff;
+	--button-light-bg: #555;
+	--button-dark-fg: #fff;
+	--button-dark-bg: #111;
+
+	--btn-disabled-fg: #555;
+	--btn-disabled-bg: #333;
+}
