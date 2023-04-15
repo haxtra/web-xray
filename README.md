@@ -2,7 +2,7 @@
 
 XRay demo website, made with Svelte.
 
-Hosted at [https://xray.haxtra.com](https://xray.haxtra.com).
+Hosted at [https://xray.haxtra.com](https://xray.haxtra.com)
 
 ## License
 

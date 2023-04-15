@@ -9,7 +9,7 @@
 		},
 		solid: {
 			install: 'npm install xray-solid',
-			import: ['import XRay from "xray-react"'],
+			import: ['import XRay from "xray-solid"'],
 			use: '<XRay obj={myobj} />',
 			repo: 'xray-solid',
 		},
