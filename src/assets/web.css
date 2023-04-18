@@ -305,3 +305,6 @@ button.btn:active	{ filter: brightness(0.9); }
 /* cursors */
 .cursor-help 	{cursor: help; }
 .cursor-add 	{cursor: cell; }
+
+/* ping  */
+.ping 	{ position:absolute; left:0; bottom:0; }

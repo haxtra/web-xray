@@ -46,7 +46,7 @@ function example(){
 	const object = {
 
 		strings: {
-			string: "XRay showoff",
+			string: "XRay demo",
 			whitespace: "   whitespace  ",
 			multiline: "hello\nworld",
 			// long: "lorem ipsum ".repeat(10),

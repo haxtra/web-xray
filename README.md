@@ -4,6 +4,5 @@ XRay demo website, made with Svelte.
 
 Hosted at [https://xray.haxtra.com](https://xray.haxtra.com)
 
-## License
 
-MIT
+![](https://hello.haxtra.com/gh-web-xray)

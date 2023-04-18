@@ -3,7 +3,7 @@
 	const ports = {
 		react: {
 			install: 'npm install @haxtra/xray-react',
-			import: ['import XRay from "xray-react"'],
+			import: ['import XRay from "@haxtra/xray-react"'],
 			use: '<XRay obj={myobj} />',
 			repo: 'xray-react',
 		},
